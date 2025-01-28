@@ -8,5 +8,4 @@ import (
 
 func main() {
 	code := ghcmd.Main()
-	os.Exit(int(code))
-}
+	os.Exit(int(pip install flask
